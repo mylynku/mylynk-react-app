@@ -1,0 +1,86 @@
+2025-09-02 22:28:59  [info]: Loaded middlewares successfully
+2025-09-02 22:28:59  [info]: Connection already in progress, waiting...
+2025-09-02 22:28:59  [info]: Database initialized successfully
+2025-09-02 22:28:59  [info]: Database initialized successfully
+2025-09-02 22:28:59  [warn]: Stale connection found for lynkdb, recreating...
+2025-09-02 22:28:59  [info]: Database initialized successfully
+2025-09-02 22:29:00  [warn]: Stale connection found for lynkdb, recreating...
+2025-09-02 22:29:00  [info]: Connection already in progress, waiting...
+2025-09-02 22:29:00  [info]: Connection already in progress, waiting...
+2025-09-02 22:29:00  [info]: Loaded API routes successfully
+2025-09-02 22:29:00  [info]: Database initialized successfully
+2025-09-02 22:29:00  [info]: Database initialized successfully
+2025-09-02 22:29:00  [info]: Database initialized successfully
+2025-09-02 22:29:00  [warn]: Stale connection found for lynkdb, recreating...
+2025-09-02 22:29:00  [info]: Connection already in progress, waiting...
+2025-09-02 22:29:00  [info]: Connection already in progress, waiting...
+2025-09-02 22:29:00  [info]: Database model initialized successfully
+2025-09-02 22:29:00  [info]: Lynker service database initialized successfully
+2025-09-02 22:29:00  [info]: User service database initialized successfully
+2025-09-02 22:29:00  [info]: MongoDB connected successfully
+2025-09-02 22:29:00  [info]: MongoDB connected successfully
+2025-09-02 22:29:00  [info]: MongoDB connected successfully
+2025-09-02 22:29:00  [info]: MongoDB connected successfully
+2025-09-02 22:29:41 [9485ecfe-491a-4b1e-92f7-f3e0d0695b35] [info]: Request started
+2025-09-02 22:29:41  [info]: No authentication token provided
+2025-09-02 22:29:41 [9485ecfe-491a-4b1e-92f7-f3e0d0695b35] [info]: Request completed
+2025-09-02 22:29:41 [1b962d92-7a96-4ebc-ad51-0ea06dbb430c] [info]: Request started
+2025-09-02 22:29:41  [info]: No authentication token provided
+2025-09-02 22:29:41 [1b962d92-7a96-4ebc-ad51-0ea06dbb430c] [info]: Request completed
+2025-09-02 22:30:38 [46aa09e8-972a-48df-8f76-91ef03b92dab] [info]: Request started
+2025-09-02 22:30:38 [61888238-062f-4abe-aceb-54397e029756] [info]: Request started
+2025-09-02 22:30:38 [61888238-062f-4abe-aceb-54397e029756] [info]: Request completed
+2025-09-02 22:30:44 [0c913f8b-d87b-4004-b765-51b5fcd5f4bd] [info]: Request started
+2025-09-02 22:30:44  [info]: No authentication token provided
+2025-09-02 22:30:44 [0c913f8b-d87b-4004-b765-51b5fcd5f4bd] [info]: Request completed
+2025-09-02 22:30:44 [d49ced0d-8cfb-4a94-936f-f48f9aa61282] [info]: Request started
+2025-09-02 22:30:44  [info]: No authentication token provided
+2025-09-02 22:30:44 [d49ced0d-8cfb-4a94-936f-f48f9aa61282] [info]: Request completed
+2025-09-02 22:30:47 [495cd035-8977-45d3-bbc8-c8b235a53f99] [info]: Request started
+2025-09-02 22:30:47  [info]: Fetched lynkers
+2025-09-02 22:30:47 [495cd035-8977-45d3-bbc8-c8b235a53f99] [info]: Request completed
+2025-09-02 22:30:47 [495cd035-8977-45d3-bbc8-c8b235a53f99] [info]: Request completed
+2025-09-02 22:30:47 [e5f7c4c9-f4af-484a-8e57-a126c479ccf2] [info]: Request started
+2025-09-02 22:30:47  [info]: Fetched lynkers
+2025-09-02 22:30:47 [e5f7c4c9-f4af-484a-8e57-a126c479ccf2] [info]: Request completed
+2025-09-02 22:30:47 [e5f7c4c9-f4af-484a-8e57-a126c479ccf2] [info]: Request completed
+2025-09-02 22:31:22 [943e2797-7bbb-4f52-875c-1dcfe4fb0630] [info]: Request started
+2025-09-02 22:31:22  [info]: Fetched lynker by ID
+2025-09-02 22:31:22 [943e2797-7bbb-4f52-875c-1dcfe4fb0630] [info]: Request completed
+2025-09-02 22:31:22 [256cbd0a-242b-4833-b45d-1672f04f0633] [info]: Request started
+2025-09-02 22:31:22  [info]: Fetched lynker by ID
+2025-09-02 22:31:22 [256cbd0a-242b-4833-b45d-1672f04f0633] [info]: Request completed
+2025-09-02 22:31:41 [561f921e-1c41-4048-b71f-d978a9ce6fe7] [info]: Request started
+2025-09-02 22:31:41  [info]: Fetched lynkers
+2025-09-02 22:31:41 [561f921e-1c41-4048-b71f-d978a9ce6fe7] [info]: Request completed
+2025-09-02 22:31:41 [561f921e-1c41-4048-b71f-d978a9ce6fe7] [info]: Request completed
+2025-09-02 22:31:41 [b68992e2-d85f-41e2-88fd-298ac6d4c649] [info]: Request started
+2025-09-02 22:31:41  [info]: Fetched lynkers
+2025-09-02 22:31:41 [b68992e2-d85f-41e2-88fd-298ac6d4c649] [info]: Request completed
+2025-09-02 22:31:41 [b68992e2-d85f-41e2-88fd-298ac6d4c649] [info]: Request completed
+2025-09-02 22:31:43 [4ddcd73b-68ce-451e-8a52-f2d953d40ce7] [info]: Request started
+2025-09-02 22:31:43  [info]: Fetched lynker by ID
+2025-09-02 22:31:43 [4ddcd73b-68ce-451e-8a52-f2d953d40ce7] [info]: Request completed
+2025-09-02 22:31:43 [852b0671-f859-451f-93d3-17a777ed3fe4] [info]: Request started
+2025-09-02 22:31:43  [info]: Fetched lynker by ID
+2025-09-02 22:31:43 [852b0671-f859-451f-93d3-17a777ed3fe4] [info]: Request completed
+2025-09-02 22:31:44 [eba8850e-13eb-4f9e-95ff-2a5f766ae84e] [info]: Request started
+2025-09-02 22:31:44  [info]: Fetched lynker by ID
+2025-09-02 22:31:44 [eba8850e-13eb-4f9e-95ff-2a5f766ae84e] [info]: Request completed
+2025-09-02 22:31:44 [eb70e034-f6e0-4561-8cb2-cc140dff83a4] [info]: Request started
+2025-09-02 22:31:45  [info]: Fetched lynker by ID
+2025-09-02 22:31:45 [eb70e034-f6e0-4561-8cb2-cc140dff83a4] [info]: Request completed
+2025-09-02 22:33:32 [9179b701-8712-49e6-b4eb-9bc4fc997fad] [info]: Request started
+2025-09-02 22:33:32  [info]: Fetched lynkers
+2025-09-02 22:33:32 [9179b701-8712-49e6-b4eb-9bc4fc997fad] [info]: Request completed
+2025-09-02 22:33:32 [9179b701-8712-49e6-b4eb-9bc4fc997fad] [info]: Request completed
+2025-09-02 22:33:32 [ace6bb3f-c6f2-45f8-899b-f249a7540c74] [info]: Request started
+2025-09-02 22:33:32  [info]: Fetched lynkers
+2025-09-02 22:33:32 [ace6bb3f-c6f2-45f8-899b-f249a7540c74] [info]: Request completed
+2025-09-02 22:33:32 [ace6bb3f-c6f2-45f8-899b-f249a7540c74] [info]: Request completed
+2025-09-02 22:33:37 [58f8bc38-53cd-44b3-814e-e5bfe3f3f154] [info]: Request started
+2025-09-02 22:33:37  [info]: Fetched lynker by ID
+2025-09-02 22:33:37 [58f8bc38-53cd-44b3-814e-e5bfe3f3f154] [info]: Request completed
+2025-09-02 22:33:37 [710e4e6c-0384-4166-9fd0-7f9494cb84c4] [info]: Request started
+2025-09-02 22:33:37  [info]: Fetched lynker by ID
+2025-09-02 22:33:37 [710e4e6c-0384-4166-9fd0-7f9494cb84c4] [info]: Request completed

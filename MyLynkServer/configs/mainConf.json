@@ -1,0 +1,45 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": "9000"
+  },
+  "db": {
+    "uri": "mongodb+srv://maheshwarpatn:6tzmKaJOQ1Pyb7UY@cluster0.phip9xp.mongodb.net/lynkdb?retryWrites=true&w=majority",
+    "isAtlas": true
+  },
+  "secret": {
+    "authSecret": "ISHFFJFCMF64375"
+  },
+  "sso": {
+    "google": {
+      "clientId": "678996627077-dd6biib95eob2d5u0b6t8o215s8v97jg.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "callbackUrl": "http://localhost:9000/auth/google/callback"
+    },
+    "apple": {
+      "clientId": "678996627077-vj06aqf7j4g8k648v9fsq6rdbitcdvn0.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "callbackUrl": "https://localhost:9000/auth/apple/callback"
+    }
+  },
+  "auth": {
+    "jwt": {
+      "secret": "7VYFU4it9tkCR/DI/V4JsohJPOiEmZ9OEILMG5Z4Tg0=",
+      "expiresIn": "7d"
+    },
+    "oauth": {
+      "google": {
+        "clientId": "678996627077-dd6biib95eob2d5u0b6t8o215s8v97jg.apps.googleusercontent.com",
+        "clientSecret": "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",
+        "callbackUrl": "http://localhost:9000/auth/google/callback"
+      },
+      "apple": {
+        "clientId": "your-apple-client-id",
+        "teamId": "your-apple-team-id",
+        "keyId": "your-apple-key-id",
+        "privateKeyLocation": "./configs/apple-auth-key.p8",
+        "callbackUrl": "http://localhost:9000/auth/apple/callback"
+      }
+    }
+  }
+}

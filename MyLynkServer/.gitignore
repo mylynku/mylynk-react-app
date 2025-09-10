@@ -1,0 +1,9 @@
+MyLynkServer/configs/*
+MyLynkServer/configs/razorpayConfig.json 
+MyLynkServer/configs/mainConf.json 
+MyLynkServer/configs/oauth.json 
+
+MyLynkServer/logs/*
+
+node_modules
+.env
